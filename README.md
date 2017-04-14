@@ -2,6 +2,16 @@
 
 This repo contains a number of full-stack developer interview questions that can be used when vetting potential candidates.
 
+
+## <a name='toc'>Table of Contents-By batmannolove</a>
+  1.front end see:https://github.com/batmannolove/UpRunningAdvancedFrontEnd-public/issues
+  2.dbms      see:https://github.com/batmannolove/UpRunningDBMS-Public/issues
+  3.cloud com see:https://github.com/batmannolove/UpRunningCloudComputing
+  
+
+
+
+
 ## <a name='toc'>Table of Contents</a>
 
   1. [General Questions](#general)
